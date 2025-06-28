@@ -1,0 +1,30 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Local config files
+local.properties
+
+# Firebase
+google-services.json
+
+# macOS
+.DS_Store
+
+# Android captures
+captures/
+
+# NDK builds (optional)
+.externalNativeBuild/
+.cxx/
+
+# APKs
+*.apk
+*.ap_
+
+# Logs
+*.log
