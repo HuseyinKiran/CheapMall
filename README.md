@@ -1,6 +1,6 @@
 # 🛍️ CheapMall
 
-CheapMall is a modern e-commerce app built with Jetpack Compose, focusing on clean architecture and Firebase integration. It allows users to sign up, sign in, browse products, add items to cart or favorites, and manage them based on their authenticated session — all powered by Firebase Authentication and Firestore.
+CheapMall is a sample e-commerce app built with Jetpack Compose, focusing on clean architecture and Firebase integration. It allows users to sign up, sign in, browse products, add items to cart or favorites, and manage them based on their authenticated session — all powered by Firebase Authentication and Firestore.
 
 ---
 
